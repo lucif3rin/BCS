@@ -38,7 +38,8 @@ Some things though I will note to myself:
 - [ ] Make consistently sized buttons
 - [ ] Give it an actual good colour scheme
 - [ ] It doesn't have to look modern, it has to work
-- [ ] Don't use C# for the fucking GUI
+- [ ] [1]Don't use C# for the fucking GUI
+- [ ] Don't use Kotlin for the fucking GUI[1]
 
 ### Phase 4 - Embedment within the physical realm
 Make a physical proof of concept, because as we know your software will be flawless and hardware is expensive and I don't wanna sink into that just yet.
